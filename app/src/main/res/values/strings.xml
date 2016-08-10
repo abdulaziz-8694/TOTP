@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GenTOTP</string>
+    <string name="generate_totp">Generate TOTP</string>
+</resources>
